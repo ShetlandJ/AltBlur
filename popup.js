@@ -1,7 +1,7 @@
 
 function blurify() {
   chrome.tabs.executeScript({
-    file: 'alert.js'
+    file: 'blurify.js'
   });
 }
 

@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
 
-    "name": "Click to execute",
-    "description": "Execute script after click in popup.html (chrome extension) http://stackoverflow.com/questions/20764517/execute-script-after-click-in-popup-html-chrome-extension.",
-    "version": "1.0",
+    "name": "AltBlur",
+    "description": "Blur images that don't have proper alt text.",
+    "version": "1.1",
 
     "icons": {
       "48": "icon.png"
