@@ -4,4 +4,5 @@
 2. Click the button that pops up in the popover
 3. Boom!
 
-![A screenshot that shows the chrome extension on a Reddit post. The image does not have an alt tag, and is therefore blurred out, demonstrating the extensions usage.](https://i.imgur.com/42AGbLp.png)
+![A screenshot that shows the chrome extension on the Royal Institute for the Blind's home page. One of the images does not contain proper alt text, so the extension blurs it out.](https://i.imgur.com/ARrNGmH.png)
+
