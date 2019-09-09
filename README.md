@@ -6,3 +6,5 @@
 
 ![A screenshot that shows the chrome extension on the Royal Institute for the Blind's home page. One of the images does not contain proper alt text, so the extension blurs it out.](https://i.imgur.com/ARrNGmH.png)
 
+
+# [Why this matters](https://youtu.be/dEbl5jvLKGQ)
