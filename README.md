@@ -10,6 +10,7 @@ To load an unpacked extension:
 
 4. Select the directory containing your unpacked extension.
 
+5. This will load the extension into Chrome and it will appear in the top right
 
 1. Click on the extension
 2. Click the button that pops up in the popover
